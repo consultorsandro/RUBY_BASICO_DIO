@@ -30,5 +30,5 @@ puts mensagem2.capitalize #Pões em letra maiúscula a primeira letra da string
 puts mensagem2.gsub("mensagem", "vida") # subtitui o primeiro parâmetro pelo segundo
 mensagem3 = "Todo_mundo alguem ninguem".split  #transforma a string em array 
 p mensagem3
-mensagem3 = "Todo_mundo alguem ninguem".split("$")
+mensagem3 = "Todo_mundo alguem ninguem".split(".")
 p mensagem3
